@@ -55,7 +55,7 @@ public class indexhelper
     }
 
 
-    private static void all_accounts()
+    private static void all_accounts() // get all accounts
     {
         Console.Clear();
         Console.ForegroundColor = ConsoleColor.Magenta;
