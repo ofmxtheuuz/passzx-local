@@ -1,4 +1,4 @@
 ﻿using Passzx.helpers;
 
-Console.Title = "Passzx (Local Version)";
+Console.Title = "Passzx (Local Version)"; // title console
 indexhelper.home();
