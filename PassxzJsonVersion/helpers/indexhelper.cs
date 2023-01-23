@@ -8,7 +8,7 @@ namespace Passzx.helpers;
 
 public class indexhelper
 {
-    public static void home()
+    public static void home() // home method
     {
         Console.Clear();
         Console.ForegroundColor = ConsoleColor.Magenta;
