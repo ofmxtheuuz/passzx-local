@@ -18,6 +18,13 @@
 
 <br>
 
+<h2>
+  Passzx Official or Passzx Local?
+</h2>
+<p>
+  Passzx Local Version is for you who don't want to use a database. The system replaces the database with the file "accounts.json" at the root of the project.
+</p>
+
 <hr>
 
 <h1>
