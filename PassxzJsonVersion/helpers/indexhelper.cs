@@ -168,7 +168,7 @@ public class indexhelper
         home();
     }
 
-    private static void accounts_category()
+    private static void accounts_category() // get accounts by category
     {
         Console.Clear();
         Console.ForegroundColor = ConsoleColor.Magenta;
