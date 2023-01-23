@@ -100,7 +100,7 @@ public class indexhelper
         home();
     }
 
-    private static void insert_account()
+    private static void insert_account() // insert an account
     {
         Console.Clear();
         Console.ForegroundColor = ConsoleColor.Magenta;
